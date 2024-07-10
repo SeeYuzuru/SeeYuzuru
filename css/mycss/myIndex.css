@@ -5,3 +5,7 @@
   /* 背景图像大小 */
   background-size: contain;
 }
+#page-header.full_page {
+  height: 50vh;
+  background-attachment: fixed;
+}
