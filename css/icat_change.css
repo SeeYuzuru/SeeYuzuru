@@ -17,12 +17,10 @@
   border: 1px #e3e8f7;
   overflow: hidden;
 }
-
 .pace-inactive .pace-progress {
   opacity: 0;
   transition: 0.3s ease-in;
 }
-
 .pace .pace-progress {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -46,7 +44,6 @@
   animation: gradient 1.5s ease infinite;
   background-size: 200%;
 }
-
 .pace.pace-inactive {
   opacity: 0;
   transition: 0.3s;
@@ -63,3 +60,5 @@
     background-position: 0% 50%;
   }
 }
+
+/* pace 加载的胶囊样式 */
